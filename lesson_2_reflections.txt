@@ -5,3 +5,5 @@ It creates the .git meta-file which will track changes through commits.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It doesn't store anything on disk, they're most likely file pointers. 
+
+Fix newline message attempt. 
