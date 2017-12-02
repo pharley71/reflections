@@ -10,3 +10,6 @@ Fix newline message attempt.
 
 How can you use the staging area to make sure you have one commit per logical change?
 I guess use diff --staged and count the number of commits per logical change. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you're trying something very different. Branches would allow you to revert, or continue along the main branch to create a different application \n
