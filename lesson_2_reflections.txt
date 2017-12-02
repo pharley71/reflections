@@ -7,3 +7,6 @@ How is the staging area different from the working directory and the repository?
 It doesn't store anything on disk, they're most likely file pointers. 
 
 Fix newline message attempt. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I guess use diff --staged and count the number of commits per logical change. 
