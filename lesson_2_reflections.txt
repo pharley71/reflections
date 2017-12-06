@@ -16,3 +16,6 @@ When you're trying something very different. Branches would allow you to revert,
 
 How do the diagrams help you visualize the branch structure?
 Shows which commits are reachable, and what the parent nodes are. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The heads get merged, forming a new master. 
